@@ -23,4 +23,4 @@ You can play the game by runing snake file.
 ## Acknowledgments
 
 * [Mertiq](https://github.com/Mertiq)
-* [Free Code Camp](https://www.freecodecamp.org) for [this] video(https://www.youtube.com/watch?v=CD4qAhfFuLo)
+* [Free Code Camp](https://www.freecodecamp.org) for [this](https://www.youtube.com/watch?v=CD4qAhfFuLo) video
